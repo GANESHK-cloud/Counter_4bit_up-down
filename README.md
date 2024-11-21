@@ -1,4 +1,7 @@
-[counter.v.txt](https://github.com/user-attachments/files/17266127/counter.v.txt)[Counter_test1.v.txt](https://github.com/user-attachments/files/17266124/Counter_test1.v.txt)[counter.v.txt](https://github.com/user-attachments/files/17266120/counter.v.txt)# Counter_4bit_up-down
+## Counter_4bit_up-down
+
+
+
 
 ## Aim:
 
