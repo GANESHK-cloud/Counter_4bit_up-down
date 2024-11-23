@@ -1,4 +1,4 @@
-## Counter_4bit_up-down
+ ##                                  Exp-No:2 - BIT Up-Down Counter 
 
 
 
